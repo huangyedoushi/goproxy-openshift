@@ -1,9 +1,9 @@
 {
 	"Servers": [
 		{
-			"URL": "https://example.com/",
-			"Password": "123456",
-			"SSLVerify": false,
+			"URL": "http://huangyedoushi-goproxy-huangyedoushi.193b.starter-ca-central-1.openshiftapps.com",
+			"Password": "yhb",
+			"SSLVerify": true,
 			"Host": "",
 		}
 	],
